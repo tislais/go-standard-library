@@ -34,7 +34,6 @@ func main() {
 	for scanner.Scan() {
 		fmt.Println(scanner.Text())
 	}
-
 }
 
 func showMessage(messagetype messageType, message string) {

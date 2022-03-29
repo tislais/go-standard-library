@@ -1,0 +1,17 @@
+2022/03/29 09:51:56 This is a log message!
+INFO: 2022/03/29 09:57:46 ourfirstlog.go:33: This is a log message!
+INFO: 2022/03/29 10:00:40 ourfirstlog.go:36: This is an information message!
+WARNING: 2022/03/29 10:00:40 ourfirstlog.go:39: This is a warning.
+ERROR: 2022/03/29 10:00:40 ourfirstlog.go:42: This is an error.
+FATAL: 2022/03/29 10:00:40 ourfirstlog.go:45: ABORT
+INFO: 2022/03/29 10:01:17 ourfirstlog.go:37: This is an information message!
+WARNING: 2022/03/29 10:01:17 ourfirstlog.go:40: This is a warning.
+ERROR: 2022/03/29 10:01:17 ourfirstlog.go:43: This is an error.
+FATAL: 2022/03/29 10:01:17 ourfirstlog.go:46: ABORT
+INFO: 2022/03/29 10:05:59 oursecondlog.go:28: This is info
+WARNING: 2022/03/29 10:05:59 oursecondlog.go:29: Oh no, a warning!
+ERROR: 2022/03/29 10:05:59 oursecondlog.go:30: Error! Please stop
+FATAL: 2022/03/29 10:05:59 oursecondlog.go:31: Program Quit
+WARNING: 2022/03/29 10:07:07 oursecondlog.go:29: Oh no, a warning!
+ERROR: 2022/03/29 10:07:07 oursecondlog.go:30: Error! Please stop
+FATAL: 2022/03/29 10:07:07 oursecondlog.go:31: Program Quit
