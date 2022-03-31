@@ -28,6 +28,7 @@ func main() {
 }
 
 func properTitle(input string) string {
+	// easy way to make a slice of words
 	words := strings.Fields(input)
 	smallWords := " a an on the to "
 
